@@ -1,7 +1,7 @@
 # Problem Statement
 In the present day world where internet users are extremely vulnerable to brute force attacks, weak passwords remain the primary entry point for cyber-attacks. Most users rely on predictable patterns, sequential numbers (e.g., "12345"), or simple repetitions (e.g., "aaaaa") that satisfy basic length requirements but offer zero protection. There is a clear need for a tool that provides heuristic-based feedback rather than just checking if a password is "long enough."
 # Scope of Project
-The project is designed to develop a python based password analzyer that can:
+The project is designed to develop a python based password analyzer that can:
 * Analyze character diversity (uppercase, lowercase, digits, symbols).
 * Detect and penalize common keyboard patterns and repetitions.
 * Calculate a risk score based on weighted security heuristics.
