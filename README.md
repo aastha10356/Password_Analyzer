@@ -1,7 +1,7 @@
 # Password Analyzer
-Password Analyzer is a real world application of python programming and cybersecurity which is used to give a technical solution designed to address the widespread issue of weak user credentials in digital environments.
+Password Analyzer is a real-world application of Python programming and cybersecurity which is used to give a technical solution designed to address the widespread issue of weak user credentials in digital environments.
 ## Project Overview
-This project is a cybersecurity tool created to evaluate the strength of passwords with the help of AI to protect the users from online vulnerable attacks. Unlike common basic length checkers, this application uses weighted heustiric engine to analyze character diversity, randonmess and common keyboard patterns to analyze risk and gives feedback to the user to create more secure password.
+This project is a cybersecurity tool created to evaluate the strength of passwords using a rule-based heuristic approach inspired by cybersecurity principles to protect the users from online vulnerable attacks. Unlike common basic length checkers, this application uses weighted heuristic engine to analyze ccharacter diversity, randomness, and common keyboard patterns to analyze risk and give feedback to the user to create more secure password.
 ## Features
 ### Weighted Scoring Engine
 Assigns specific values to uppercase, lowercase, digits, and special characters.
@@ -18,8 +18,8 @@ Maps scores to descriptive security levels (Strong, Moderate, or Weak).
 * Libraries: string (Standard Library)
 * Architecture: Modular Object-Oriented Design
 * Standard command-line interface (CLI) for input/output.
-* Version control: Git/GitHub
-## Steps to install and run project
+* Version Control: Git & GitHub
+## Steps to Install and Run the Project
 Follow these steps to run the project locally:
 1. Ensure you have Python 3.6 or higher installed.
 2. Clone the Repository: Use Git to download all project files into a folder on your computer.
